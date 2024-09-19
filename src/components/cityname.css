@@ -1,0 +1,14 @@
+.firstdiv{
+margin-left: 500px;
+padding-top: 200px;
+}
+.addbutton{
+    background-color: blue;
+    margin-left: 20px;
+    color: black;
+}
+.fullbg{
+    background-color: aqua;
+    background-size: 100%;
+    height: 100vh;
+}
